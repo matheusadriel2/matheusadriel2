@@ -1,4 +1,4 @@
-<h1 align="center">hi :)</h1>
+<h1 align="leftr">hi :)</h1>
 
 <h3 align="left">I'm Matheus, a back-end developer from Brazil. </h3>
 <p>Currently studying Systems Analysis and Development at FIAP and getting deeper into software engineering zone.</p>
