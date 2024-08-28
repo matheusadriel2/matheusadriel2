@@ -1,7 +1,7 @@
 <h1 align="leftr">hi :)</h1>
 
-<h3 align="left">I'm Matheus, a back-end developer from Brazil. </h3>
-<p>Currently studying Systems Analysis and Development at FIAP and getting deeper into software engineering zone.</p>
+<h3 align="left">i'm matheus, a back-end developer from Brazil. </h3>
+<p>currently studying systems analysis and development at FIAP and getting deeper into software engineering zone.</p>
 
 ##
 
