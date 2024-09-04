@@ -6,6 +6,6 @@ zone.<br>I love tech, art and games, so i hope you can find something about that
 
 ##
 
-<center>
-
-![matheusadriel2's Stats](https://github-readme-stats.vercel.app/api?username=matheusadriel2&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusadriel2&theme=monokai&show_icons=true&hide_border=true&count_private=true" alt="matheusadriel2's Stats">
+</div>
