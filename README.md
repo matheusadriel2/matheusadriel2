@@ -1,12 +1,14 @@
-<h1 align="leftr">hi :)</h1>
+<h1 align="center">hi :)</h1>
 
-<h3 align="left">i'm matheus, a back-end developer from Brazil. </h3>
-<p>currently studying systems analysis and development at FIAP and getting deeper into software engineering zone.</p>
+<h3 align="center">i'm matheus, a back-end developer from Brazil. </h3>
+<p align="center">Currently i'm studying systems analysis and development at FIAP and getting deeper into software engineering 
+zone.<br>I love tech, art and games, so i hope you can find something about that here in the future.<br>or not?</p> 
 
 ##
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=matheusadriel2&label=Profile%20views&color=151515&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=matheusadriel2&label=Profile%20views&color=151515&style=for-the-badge" alt="Profile Views" />
-</p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matheusadriel2&theme=dark" alt="matheusadriel2" /></p>
+<center>
+
+![matheusadriel2's Stats](https://github-readme-stats.vercel.app/api?username=matheusadriel2&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+
+
+
