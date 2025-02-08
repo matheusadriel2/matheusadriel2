@@ -1,7 +1,13 @@
 <h1>Hello! 👻</h1>
 
-<div><img src="https://img.shields.io/static/v1?label=Overview&message=Matheus&color=0c0c0c&style=for-the-badge&logo=GitHub" alt="Static GitHub"></div>
-<br>
-<p>brazilian software development student diving into the world of coding and software engineering. here, i’ll share projects that reflect my journey and passions—hopefully, you’ll find something inspiring or fun along the way.</p> 
+<div align="left">
+  <a href="https://matheusadriel2.github.io/portfolio/"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-212529?style=flat-square" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/matheusadriel/"><img src="https://img.shields.io/badge/LinkedIn-343a40?style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:matheusadrieldsc@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/matheusadrieldsc%40gmail.com-495057?style=flat-square&logo=Gmail&logoColor=FFFFFF&logoSize=auto&labelColor=343a40&color=495057&link=mailto%3Amatheusadrieldsc%40gmail.com"></a>
+</div>
+
+##
+
+<p>a brazilian software development student diving into the world of coding and software engineering. here, i’ll share projects that reflect my journey and passions—hopefully, you’ll find something inspiring or fun along the way.</p> 
 <br>
 <div align="center"><img src="assets/img/pacman.gif" width="50%" height="50%"></div>
