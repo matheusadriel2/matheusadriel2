@@ -10,4 +10,8 @@
 
 <p>a brazilian software development student diving into the world of coding and software engineering. here, i’ll share projects that reflect my journey and passions—hopefully, you’ll find something inspiring or fun along the way.</p> 
 <br>
-<div align="center"><img src="assets/img/pacman.gif" width="50%" height="50%"></div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusadriel2&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="matheusadriel2's Most Used Languages"/>
+</p>
+
